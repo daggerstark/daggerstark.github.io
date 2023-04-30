@@ -1,8 +1,11 @@
 ---
 layout: home
-title: home
-description: Who am I and what I do?
-image: assets/images/pic11.jpg
+title: Home
+landing-title: 'Welcome to Personal Website of Shivam Raval'
+description: null
+image: null
+author: null
+show_tile: false
 ---
 
 My name is Hooman and I am a biomedical engineer by training. I have a bachelor's and master's of science in biomedical engineering from [**Linköping university**](https://liu.se/en) in Sweden. During my undergraduate studies, I worked on instrumentation of prosthetics, biomaterials and signal processing.
