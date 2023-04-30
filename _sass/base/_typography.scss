@@ -7,7 +7,7 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: _palette(fg);
+		color: _palette(bb);
 		font-family: _font(family);
 		font-size: 17pt;
 		font-weight: _font(weight);
@@ -47,7 +47,7 @@
 	}
 
 	strong, b {
-		color: _palette(fg-bold);
+		color: _palette(bb);
 		font-weight: _font(weight-bold);
 	}
 
