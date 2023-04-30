@@ -1,6 +1,5 @@
 ---
-layout: home
-title: Home
+layout: page
 description: null
 image: null
 author: null
