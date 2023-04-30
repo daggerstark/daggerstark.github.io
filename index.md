@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to Personal Website of Shivam Raval'
 description: null
 image: null
 author: null
