@@ -3,7 +3,6 @@ layout: post
 title: About me
 description: Who am I and what I do?
 image: assets/images/pic11.jpg
-nav-menu: true
 ---
 
 My name is Hooman and I am a biomedical engineer by training. I have a bachelor's and master's of science in biomedical engineering from [**Linköping university**](https://liu.se/en) in Sweden. During my undergraduate studies, I worked on instrumentation of prosthetics, biomaterials and signal processing.
