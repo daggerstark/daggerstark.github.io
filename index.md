@@ -1,6 +1,6 @@
 ---
-layout: post
-title: About me
+layout: home
+title: home
 description: Who am I and what I do?
 image: assets/images/pic11.jpg
 ---
