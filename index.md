@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 description: null
 image: null
 author: null
