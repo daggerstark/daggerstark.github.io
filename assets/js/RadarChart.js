@@ -83,7 +83,7 @@ var RadarChart = {
 	   .style("font-family", "sans-serif")
 	   .style("font-size", "10px")
 	   .attr("transform", "translate(" + (cfg.w/2-levelFactor + cfg.ToRight) + ", " + (cfg.h/2-levelFactor) + ")")
-	   .attr("fill", "#ffffff")
+	   .attr("fill", "#000000")
 	   .text(Format((j+1)*cfg.maxValue/cfg.levels));
 	}
 	
@@ -111,7 +111,7 @@ var RadarChart = {
 		.style("font-family", "sans-serif")
 		.style("font-size", "11px")
 		.attr("text-anchor", "middle")
-		.attr("fill", "#ffffff")
+		.attr("fill", "#000000")
 		.attr("dy", "1.5em")
 		.attr("transform", function(d, i){return "translate(0, -10)"})
 		.attr("x", function(d, i){return cfg.w/2*(1-cfg.factorLegend*Math.sin(i*cfg.radians/total))-60*Math.sin(i*cfg.radians/total);})
@@ -191,7 +191,7 @@ var RadarChart = {
 						.attr('y', newY)
 						.text(Format(d.value))
 						.transition(200)
-						.attr("fill", "#ffffff")
+						.attr("fill", "#000000")
 						.style('opacity', 1);
 						
 					z = "polygon."+d3.select(this).attr("class");
