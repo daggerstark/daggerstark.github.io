@@ -103,7 +103,7 @@ var text = svg.append("text")
 	.attr("x", 20)
 	.attr("y", 20)
 	.attr("font-size", "20px")
-	.attr("fill", "#ffffff")
+	.attr("fill", "#000000")
 	.text("Skills");
 		
 //Initiate Legend	
@@ -132,7 +132,7 @@ var legend = svg.append("g")
 	  .attr("x", 35)
 	  .attr("y", function(d, i){ return i * 40 + 35;})
 	  .attr("font-size", "15px")
-	  .attr("fill", "#ffffff")
+	  .attr("fill", "#000000")
 	  .text(function(d) { return d; })
 	  ;
 
