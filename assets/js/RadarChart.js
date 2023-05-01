@@ -64,7 +64,7 @@ var RadarChart = {
 	   .attr("x2", function(d, i){return levelFactor*(1-cfg.factor*Math.sin((i+1)*cfg.radians/total));})
 	   .attr("y2", function(d, i){return levelFactor*(1-cfg.factor*Math.cos((i+1)*cfg.radians/total));})
 	   .attr("class", "line")
-	   .style("stroke", "yellow")
+	   .style("stroke", "black")
 	   .style("stroke-opacity", "0.75")
 	   .style("stroke-width", "0.3px")
 	   .attr("transform", "translate(" + (cfg.w/2-levelFactor) + ", " + (cfg.h/2-levelFactor) + ")");
