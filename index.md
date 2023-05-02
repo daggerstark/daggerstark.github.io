@@ -95,8 +95,7 @@ In summary, I bring a unique blend of technical expertise, research experience, 
 			<li><b>S. Raval</b>, DK. Patel, M Lopez-Benitez. "Performance Analysis of Improved Energy Detection in Full Duplex Non-Time-Slotted Cognitive Radio"
 			<a href="https://ieeexplore.ieee.org/abstract/document/8710113"><i>In 2018 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), pp. 1-6. IEEE, 2018</i></a>.</li>
 			<li>O.Thakkar, DK. Patel, <b>S. Raval</b>, M Lopez-Benitez. "Performance Analysis of Selection Diversity Combining Using Improved Energy Detection over Rayleigh Fading Channel"   
-			<a href="https://ieeexplore.ieee.org/abstract/document/8987070"><i>In 2018 15th IEEE India Council International Conference (INDICON) (pp. 1-6). IEEE</i></a>.</li>
-			
+			<a href="https://ieeexplore.ieee.org/abstract/document/8987070"><i>In 2018 15th IEEE India Council International Conference (INDICON) (pp. 1-6). IEEE</i></a>.</li>			
 </ol>
 
 
