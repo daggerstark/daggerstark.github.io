@@ -1,7 +1,7 @@
 ---
 layout: post
 description: Shivam Raval
-image: assets/images/DSC_0477.jpg
+image: assets/images/DSC_0477.JPG
 author: null
 show_tile: false
 ---
@@ -48,19 +48,19 @@ In summary, I bring a unique blend of technical expertise, research experience, 
 			<tr>
 				<td>M.S</td>
 				<td>Master of Science in Computer Science</td>
-				<td><a href="[https://www.utm.my/](https://www.asu.edu/)"><b>Arizona State University (ASU)</b></a></td>
+				<td><a href="https://www.asu.edu/"><b>Arizona State University (ASU)</b></a></td>
 				<td>2019-2021</td>
 			</tr>
 			<tr>
 				<td>Tutor, Computer Science</td>
 				<td>Tutoring Undergrad Student at ASU in Computer Science courses</td>
-				<td><a href="https://www.asu.edu/"><b>Arizona State University</b></a></td>
+				<td><a href="https://www.asu.edu/"><b>Arizona State University (ASU)</b></a></td>
 				<td>2019-2021</td>
 			</tr>
 			<tr>
 				<td>Research Aide</td>
 				<td>Worked on NLP, Graph Clustering</td>
-				<td><a href="https://www.asu.edu/"><b>Arizona State University</b></a></td>
+				<td><a href="https://www.asu.edu/"><b>Arizona State University (ASU)</b></a></td>
 				<td>2011-2012</td>
 			</tr>
 			<tr>
@@ -87,9 +87,9 @@ In summary, I bring a unique blend of technical expertise, research experience, 
 </div>
 <h3><u>Publications</u></h3>
 <ol>
-			<li><b>H. Sedghamiz</b>, M. Morris, TJK. Craddock, D. Whitley, G. Broderick. 
-			"Bio-ModelChecker: Using Bounded Constraint Satisfaction to Seamlessly Integrate Observed Behavior with Prior Knowledge of Biological Networks" 
-			<a href="https://www.frontiersin.org/articles/10.3389/fbioe.2019.00048/abstract"> <i>In Frontiers in Bioengineering and Biotechnology, Bioinformatics, 2019</i></a>.</li>
+			<li><b>S. Raval</b>, H. Sedghamiz, E. Santus, T. Alhanai, M. Ghassemi, E. Chersoni. 
+			"Exploring a unified sequence-to-sequence transformer for medical product safety monitoring in social media" 
+			<a href="https://aclanthology.org/2021.findings-emnlp.300/"> <i>In Findings of the Association for Computational Linguistics: EMNLP 2021, pages 3534–3546, Punta Cana, Dominican Republic. Association for Computational Linguistics/i></a>.</li>
 			<li><b>H. Sedghamiz</b>, M. Morris, TJK. Craddock, D. Whitley, G. Broderick. "Computation of Robust Minimal Intervention Sets in Multi-valued Biological Regulatory Networks"
 			<a href="https://www.frontiersin.org/articles/10.3389/fphys.2019.00241/abstract"><i>In Frontiers in Physiology, section Systems Biology, 2019</i></a>.</li>
 			<li><b>H. Sedghamiz</b>, M. Morris, TJK. Craddock, D. Whitley, G. Broderick. "High-fidelity discrete modeling of the HPA axis: a study of regulatory plasticity in biology"
