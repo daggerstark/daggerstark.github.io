@@ -90,28 +90,15 @@ In summary, I bring a unique blend of technical expertise, research experience, 
 			<li><b>S. Raval</b>, H. Sedghamiz, E. Santus, T. Alhanai, M. Ghassemi, E. Chersoni. 
 			"Exploring a unified sequence-to-sequence transformer for medical product safety monitoring in social media" 
 			<a href="https://aclanthology.org/2021.findings-emnlp.300/"> <i>In Findings of the Association for Computational Linguistics: EMNLP 2021, pages 3534–3546, Punta Cana, Dominican Republic. Association for Computational Linguistics/i></a>.</li>
-			<li><b>H. Sedghamiz</b>, M. Morris, TJK. Craddock, D. Whitley, G. Broderick. "Computation of Robust Minimal Intervention Sets in Multi-valued Biological Regulatory Networks"
-			<a href="https://www.frontiersin.org/articles/10.3389/fphys.2019.00241/abstract"><i>In Frontiers in Physiology, section Systems Biology, 2019</i></a>.</li>
-			<li><b>H. Sedghamiz</b>, M. Morris, TJK. Craddock, D. Whitley, G. Broderick. "High-fidelity discrete modeling of the HPA axis: a study of regulatory plasticity in biology"
-			<a href="https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-018-0599-1"><i>In BMC Systems Biology 1-12-76, 2018</i></a>.</li>
-			<li><b>H. Sedghamiz</b>. "BioSigKit: A Matlab Toolbox and Interface for Analysis of BioSignals"   
-			<a href="http://joss.theoj.org/papers/10.21105/joss.00671"><i>In Journal of Open Source Software (JOSS), 3(30), 671, 2018</i></a>.</li>
-			<li><b>H. Sedghamiz</b>, W. Chen, M. Rice, D. Whitley, G. Broderick. "Selecting Optimal Models Based on Efficiency and Robustness in Multi-valued Biological Networks" 
-			<a href="https://ieeexplore.ieee.org/document/8251289/"><i>In 2017 IEEE 17th International Conference on Bioinformatics and Bioengineering (BIBE)</i></a>.</li>
-			<li><b>H. Sedghamiz</b>, D. Santonocito. "Unsupervised Detection and Classification of Motor Unit Action Potentials in Intramuscular Electromyography Signals" 
-			<a href="https://ieeexplore.ieee.org/document/7391510"><i>In The 5th IEEE International Conference on E-Health and Bioengineering - EHB Nov 2015</i></a>.</li>
+			<li>H. Sedghamiz, <b>S. Raval</b>, E. Santus, T. Alhanai, M. Ghassemi. "SupCL-Seq: Supervised Contrastive Learning for Downstream Optimized Sequence Representations"
+			<a href="https://aclanthology.org/2021.findings-emnlp.289/"><i>In Findings of the Association for Computational Linguistics: EMNLP 2021, pages 3398–3403, Punta Cana, Dominican Republic. Association for Computational Linguistics.</i></a>.</li>
+			<li><b>S. Raval</b>, DK. Patel, M Lopez-Benitez. "Performance Analysis of Improved Energy Detection in Full Duplex Non-Time-Slotted Cognitive Radio"
+			<a href="https://ieeexplore.ieee.org/abstract/document/8710113"><i>In 2018 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), pp. 1-6. IEEE, 2018</i></a>.</li>
+			<li>O.Thakkar, DK. Patel, <b>S. Raval</b>, M Lopez-Benitez. "Performance Analysis of Selection Diversity Combining Using Improved Energy Detection over Rayleigh Fading Channel"   
+			<a href="https://ieeexplore.ieee.org/abstract/document/8987070"><i>In 2018 15th IEEE India Council International Conference (INDICON) (pp. 1-6). IEEE</i></a>.</li>
+			
 </ol>
 
-<h3><u>News Articles</u></h3>
-<ul>
-<li>How text mining is changing the way we tackle chronic disease.
-<a href="https://www.elsevier.com/connect/how-text-mining-is-changing-the-way-we-tackle-chronic-disease"><i>Elsevier Connect, 2017</i></a></li>
-</ul>
 
-<h3><u>Public Talks</u></h3>
-<ul>
-<li>Regulatory Biology: It’s Only Logical.
-<a href="https://www.rit.edu/science/event/62219/cacm-seminar"><i>Science + Math Rochester Institute of Technology, 2017</i></a></li>
-</ul>
 
 
