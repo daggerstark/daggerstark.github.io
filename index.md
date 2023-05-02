@@ -87,9 +87,7 @@ In summary, I bring a unique blend of technical expertise, research experience, 
 </div>
 <h3><u>Publications</u></h3>
 <ol>
-			<li><b>S. Raval</b>, H. Sedghamiz, E. Santus, T. Alhanai, M. Ghassemi, E. Chersoni. 
-			"Exploring a unified sequence-to-sequence transformer for medical product safety monitoring in social media" 
-			<a href="https://aclanthology.org/2021.findings-emnlp.300/"> <i>In Findings of the Association for Computational Linguistics: EMNLP 2021, pages 3534–3546, Punta Cana, Dominican Republic. Association for Computational Linguistics/i></a>.</li>
+			<li><b>S. Raval</b>, H. Sedghamiz, E. Santus, T. Alhanai, M. Ghassemi, E. Chersoni. "Exploring a unified sequence-to-sequence transformer for medical product safety monitoring in social media" <a href="https://aclanthology.org/2021.findings-emnlp.300/"> <i>In Findings of the Association for Computational Linguistics: EMNLP 2021, pages 3534–3546, Punta Cana, Dominican Republic. Association for Computational Linguistics</i></a>.</li>
 			<li>H. Sedghamiz, <b>S. Raval</b>, E. Santus, T. Alhanai, M. Ghassemi. "SupCL-Seq: Supervised Contrastive Learning for Downstream Optimized Sequence Representations"
 			<a href="https://aclanthology.org/2021.findings-emnlp.289/"><i>In Findings of the Association for Computational Linguistics: EMNLP 2021, pages 3398–3403, Punta Cana, Dominican Republic. Association for Computational Linguistics.</i></a>.</li>
 			<li><b>S. Raval</b>, DK. Patel, M Lopez-Benitez. "Performance Analysis of Improved Energy Detection in Full Duplex Non-Time-Slotted Cognitive Radio"
