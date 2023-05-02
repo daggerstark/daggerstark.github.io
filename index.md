@@ -1,7 +1,7 @@
 ---
 layout: post
 description: Shivam Raval
-image: assets/images/DSC_0477.JPG
+image: assets/images/DSC_0477.jpg
 author: null
 show_tile: false
 ---
