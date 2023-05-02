@@ -5,13 +5,13 @@ image: assets/images/DSC_0477.jpg
 author: null
 show_tile: false
 ---
+My name is Shivam Raval, and I am a Computer Scientist with a passion for exploring the intersection of technology and innovation. I hold a Bachelor's and Master's degree in Computer Science from [**Ahmedabad University**](https://ahduni.edu.in/) and [**Arizona State University**](https://www.asu.edu/), respectively.
 
-My name is Hooman and I am a biomedical engineer by training. I have a bachelor's and master's of science in biomedical engineering from [**Linköping university**](https://liu.se/en) in Sweden. During my undergraduate studies, I worked on instrumentation of prosthetics, biomaterials and signal processing.
-It was during the first year of my master's degree that I wrote a simple code for ECG qrs beat detector and realized that it actually works in practice and could identify arrhythmias. That probably was my euphoria moment. From that day on, I have been applying the skills I learned in computer science and machine learning
-to healthcare related problems. I have been a [**Matlab Central Code**](https://www.mathworks.com/matlabcentral/profile/authors/2510422-hooman-sedghamiz) contributor since 2013 and love to share my code get feedback and learn more. I have had the chance to design algorithms for wearable medical devices and implants (e.g. Cochlear and Vagus Nerve Stimulators).
-I also work on large databases from clinical trials and apply machine learning to draw meaningful conclusions. Furthermore, from 2016 to 2018 I had the chance to work on evolutionary biology and designed efficient algorithms for simulation of progression of illnesses in cells and genes.
+As a self-motivated individual, I have a strong academic background in computer science and engineering, with experience in various areas such as software engineering, deep learning, natural language processing, and computer vision. My research experience has enabled me to develop innovative and impactful solutions to complex problems, leading to my contributions to publications in the field of computational linguistics.
 
-I currently live in beautiful San Diego, CA with my love Dominika and two dogs (Tobi and Dante).
+I possess excellent problem-solving skills, and I am always eager to take on new challenges that allow me to push my boundaries. My experience in cross-functional team collaboration has honed my communication skills, allowing me to effectively communicate ideas and solutions to others.
+
+In summary, I bring a unique blend of technical expertise, research experience, problem-solving skills, and communication skills to the table.
 
 <!-- Interactive Software knowledge -->
 
@@ -40,65 +40,48 @@ I currently live in beautiful San Diego, CA with my love Dominika and two dogs (
 		</thead>
 		<tbody>
 			<tr>
-				<td>B.Sc</td>
-				<td>Biomedical Engineering</td>
-				<td><a href="https://en.wikipedia.org/wiki/National_Polytechnic_University_of_Armenia"><b>National Polytechnic University of Armenia</b></a></td>
-				<td>2005-2009</td>
+				<td>B.Tech</td>
+				<td>Bachelor of Technology in Computer Science</td>
+				<td><a href="https://ahduni.edu.in/"><b>Ahmedabad University</b></a></td>
+				<td>2015-2019</td>
 			</tr>
 			<tr>
-				<td>Internship</td>
-				<td>Deception Detection from EEG</td>
-				<td><a href="https://www.utm.my/"><b>University Technology Malaysia</b></a></td>
-				<td>2009</td>
+				<td>M.S</td>
+				<td>Master of Science in Computer Science</td>
+				<td><a href="[https://www.utm.my/](https://www.asu.edu/)"><b>Arizona State University (ASU)</b></a></td>
+				<td>2019-2021</td>
 			</tr>
 			<tr>
-				<td>M.Sc</td>
-				<td>Biomedical Engineering and Signal Processing</td>
-				<td><a href="https://liu.se/en"><b>Linköping University Sweden</b></a></td>
-				<td>2010-2013</td>
+				<td>Tutor, Computer Science</td>
+				<td>Tutoring Undergrad Student at ASU in Computer Science courses</td>
+				<td><a href="https://www.asu.edu/"><b>Arizona State University</b></a></td>
+				<td>2019-2021</td>
 			</tr>
 			<tr>
-				<td>Internship</td>
-				<td>Worked on retinal implants</td>
-				<td><a href="https://www.pixium-vision.com/en"><b>Pixium Vision</b></a></td>
+				<td>Research Aide</td>
+				<td>Worked on NLP, Graph Clustering</td>
+				<td><a href="https://www.asu.edu/"><b>Arizona State University</b></a></td>
 				<td>2011-2012</td>
 			</tr>
 			<tr>
-				<td>Master's Thesis</td>
-				<td>Sponsored by Philips to work on X-ray and CT machines</td>
-				<td><a href="https://www.usa.philips.com/healthcare"><b>Philips Medical Systems</b></a></td>
-				<td>2012-2013</td>
+				<td>Research Intership</td>
+				<td>Worked on Deep Learning Chest X-Ray Classification</td>
+				<td><a href="https://www.usa.philips.com/healthcare"><b>Philips Research North America</b></a></td>
+				<td>2020-2020</td>
 			</tr>
 			<tr>
-				<td>R&D Engineer</td>
-				<td>Developed algorithm for cochlear implants</td>
-				<td><a href="https://www.medel.com/"><b>MED-EL Electronics</b></a></td>
-				<td>2013-2016</td>
+				<td>Data Science Co-op</td>
+				<td>Worked in Biomedical AI, Adverse Drug Event Detection</td>
+				<td><a href="https://www.bayer.com/en/pharma/pharmaceuticals"><b>Bayer Pharmaceuticals</b></a></td>
+				<td>2021-2021</td>
 			</tr>
 			<tr>
-				<td>Senior Programmer</td>
-				<td>Developed high performance computational biology tools</td>
-				<td><a href="https://www.nova.edu/nim/index.html"><b>Nova SouthEastern University</b></a></td>
+				<td>NLP Data Scientist</td>
+				<td>Improving chatbot capabilities, Smart Compose, multi-lingual intent classification</td>
+				<td><a href="https://www.americanexpress.com/"><b>American Express</b></a></td>
 				<td>2016-2017</td>
 			</tr>
-			<tr>
-				<td>Senior Programmer</td>
-				<td>Developed high performance computational biology tools</td>
-				<td><a href="https://www.rochesterregional.org/medical-education/research/clinical-systems-biology"><b>Rechester General Hospital</b></a></td>
-				<td>2017-2018</td>
-			</tr>
-		    <tr>
-				<td>Senior Research Scientist</td>
-				<td>Algorithm developer and Machine Learning on physiological signals applied to sleep apnea and seizure prediction</td>
-				<td><a href="https://www.livanova.com"><b>LivaNova</b></a></td>
-				<td>2018-2020</td>
-			</tr>
-			<tr>
-				<td>Senior Data Scientist Algorithm Developer</td>
-				<td>Algorithm development and ML for wearable Continous Glocuse Monitoring (CGM). </td>
-				<td><a href="https://www.biolinq.me"><b>Biolinq</b></a></td>
-				<td>2020-Now</td>
-			</tr>
+			
 		</tbody>
 	</table>
 </div>
