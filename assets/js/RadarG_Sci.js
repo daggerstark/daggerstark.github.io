@@ -4,57 +4,51 @@ var	h = w;
 var colorscale = d3.scale.category10();
 
 //Legend titles
-var LegendOptions = ['2010','2013','2019'];
+var LegendOptions = ['2017','2019','2022'];
 
 //Data
 var d1 = [
 		  [
-			{axis:"SignalProcessing",value:0.90},
+			{axis:"WirelessComm",value:0.6},
 			{axis:"MachineLearning",value:0.40},
-			{axis:"CompBiology",value:0.3},
-			{axis:"DeepLearning",value:0.1},
-			{axis:"Optimization",value:0.3},
-			{axis:"CompScience",value:0.1}
+			{axis:"BioMedicalAI",value:0.1},
+			{axis:"DeepLearning",value:0.3},
+			{axis:"CompScience",value:0.65}
 		  ],[
-			{axis:"SignalProcessing",value:0.75},
+			{axis:"WirelessComm",value:0.9},
 			{axis:"MachineLearning",value:0.85},
-			{axis:"CompBiology",value:0.90},
-			{axis:"DeepLearning",value:0.25},
-			{axis:"Optimization",value:0.7},
-			{axis:"CompScience",value:0.3}
+			{axis:"BioMedicalAI",value:0.8},
+			{axis:"DeepLearning",value:0.8},
+			{axis:"CompScience",value:0.85}
 		  ],[
-			{axis:"SignalProcessing",value:0.68},
-			{axis:"MachineLearning",value:0.75},
-			{axis:"CompBiology",value:0.6},
-			{axis:"DeepLearning",value:0.70},
-			{axis:"Optimization",value:0.5},
-			{axis:"CompScience",value:0.70}
+			{axis:"WirelessComm",value:0.3},
+			{axis:"MachineLearning",value:0.85},
+			{axis:"BioMedicalAI",value:0.9},
+			{axis:"DeepLearning",value:0.9},
+			{axis:"CompScience",value:0.8}
 		  ]
 		];
 
 var d2 = [
 		  [
-			{axis:"SignalProcessing",value:0},
+			{axis:"WirelessComm",value:0},
 			{axis:"MachineLearning",value:0},
-			{axis:"CompBiology",value:0},
+			{axis:"BioMedicalAI",value:0},
 			{axis:"DeepLearning",value:0},
-			{axis:"Optimization",value:0},
 			{axis:"CompScience",value:0}
 		  ],
 		  [
-			{axis:"SignalProcessing",value:0},
+			{axis:"WirelessComm",value:0},
 			{axis:"MachineLearning",value:0},
-			{axis:"CompBiology",value:0},
+			{axis:"BioMedicalAI",value:0},
 			{axis:"DeepLearning",value:0},
-			{axis:"Optimization",value:0},
 			{axis:"CompScience",value:0}
 		  ],
 		  [
-			{axis:"SignalProcessing",value:0},
+			{axis:"WirelessComm",value:0},
 			{axis:"MachineLearning",value:0},
-			{axis:"CompBiology",value:0},
+			{axis:"BioMedicalAI",value:0},
 			{axis:"DeepLearning",value:0},
-			{axis:"Optimization",value:0},
 			{axis:"CompScience",value:0}
 		  ]	  
 		 ]
