@@ -4,40 +4,40 @@ var	h = w;
 var colorscale = d3.scale.category10();
 
 //Legend titles
-var LegendOptions = ['2010','2013','2019'];
+var LegendOptions = ['2017','2019','2022'];
 
 //Data
 var d = [
 		  [
 			{axis:"Matlab",value:0.75},
-			{axis:"LabView",value:0.90},
+			{axis:"C",value:0.90},
 			{axis:"Cpp",value:0.95},
 			{axis:"Java",value:0.4},
-			{axis:"SQL",value:0.1},
-			{axis:"HTML",value:0.2},
+			{axis:"SQL",value:0.2},
+			{axis:"HTML",value:0.1},
 			{axis:"JavaScript",value:0.3},
 			{axis:"Python",value:0.3},
+			{axis:"CSS",value:0.1}
+		  ],[
+			{axis:"Matlab",value:0.6},
+			{axis:"C",value:0.7},
+			{axis:"Cpp",value:0.8},
+			{axis:"Java",value:0.6},
+			{axis:"SQL",value:0.4},
+			{axis:"HTML",value:0.3},
+			{axis:"JavaScript",value:0.3},
+			{axis:"Python",value:0.7},
 			{axis:"CSS",value:0.2}
 		  ],[
-			{axis:"Matlab",value:0.90},
-			{axis:"LabView",value:0.50},
-			{axis:"Cpp",value:0.90},
-			{axis:"Java",value:0.4},
-			{axis:"SQL",value:0.4},
-			{axis:"HTML",value:0.70},
-			{axis:"JavaScript",value:0.75},
-			{axis:"Python",value:0.6},
-			{axis:"CSS",value:0.45}
-		  ],[
-			{axis:"Matlab",value:0.95},
-			{axis:"LabView",value:0.70},
-			{axis:"Cpp",value:0.80},
-			{axis:"Java",value:0.70},
-			{axis:"SQL",value:0.80},
-			{axis:"HTML",value:0.50},
-			{axis:"JavaScript",value:0.60},
+			{axis:"Matlab",value:0.5},
+			{axis:"C",value:0.6},
+			{axis:"Cpp",value:0.6},
+			{axis:"Java",value:0.6},
+			{axis:"SQL",value:0.7},
+			{axis:"HTML",value:0.4},
+			{axis:"JavaScript",value:0.4},
 			{axis:"Python",value:0.90},
-			{axis:"CSS",value:0.55}
+			{axis:"CSS",value:0.4}
 		  ]
 		];
 		
