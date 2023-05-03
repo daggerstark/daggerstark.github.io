@@ -79,7 +79,7 @@ In summary, I bring a unique blend of technical expertise, research experience, 
 				<td>NLP Data Scientist</td>
 				<td>Improving chatbot capabilities, Smart Compose, multi-lingual intent classification</td>
 				<td><a href="https://www.americanexpress.com/"><b>American Express</b></a></td>
-				<td>2016-2017</td>
+				<td>2021-Now</td>
 			</tr>
 			
 		</tbody>
