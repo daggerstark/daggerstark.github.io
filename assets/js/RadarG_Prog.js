@@ -13,7 +13,7 @@ var d = [
 			{axis:"C",value:0.90},
 			{axis:"Cpp",value:0.95},
 			{axis:"Java",value:0.6},
-			{axis:"SQL",value:0.2},
+			{axis:"SQL",value:0.3},
 			{axis:"HTML",value:0.1},
 			{axis:"JavaScript",value:0.3},
 			{axis:"Python",value:0.5},
@@ -33,11 +33,11 @@ var d = [
 			{axis:"C",value:0.6},
 			{axis:"Cpp",value:0.6},
 			{axis:"Java",value:0.6},
-			{axis:"SQL",value:0.7},
-			{axis:"HTML",value:0.4},
+			{axis:"SQL",value:0.5},
+			{axis:"HTML",value:0.3},
 			{axis:"JavaScript",value:0.4},
-			{axis:"Python",value:0.90},
-			{axis:"CSS",value:0.4}
+			{axis:"Python",value:0.8},
+			{axis:"CSS",value:0.3}
 		  ]
 		];
 		
@@ -45,7 +45,7 @@ var d = [
 var d2 = [
 		  [
 			{axis:"Matlab",value:0},
-			{axis:"LabView",value:0},
+			{axis:"C",value:0},
 			{axis:"Cpp",value:0},
 			{axis:"Java",value:0},
 			{axis:"SQL",value:0},
@@ -55,7 +55,7 @@ var d2 = [
 			{axis:"CSS",value:0}
 		  ],[
 			{axis:"Matlab",value:0},
-			{axis:"LabView",value:0},
+			{axis:"C",value:0},
 			{axis:"Cpp",value:0},
 			{axis:"Java",value:0},
 			{axis:"SQL",value:0},
@@ -65,7 +65,7 @@ var d2 = [
 			{axis:"CSS",value:0}
 		  ],[
 			{axis:"Matlab",value:0},
-			{axis:"LabView",value:0},
+			{axis:"C",value:0},
 			{axis:"Cpp",value:0},
 			{axis:"Java",value:0},
 			{axis:"SQL",value:0},
