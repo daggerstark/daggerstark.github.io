@@ -12,24 +12,24 @@ var d = [
 			{axis:"Matlab",value:0.75},
 			{axis:"C",value:0.90},
 			{axis:"Cpp",value:0.95},
-			{axis:"Java",value:0.4},
+			{axis:"Java",value:0.6},
 			{axis:"SQL",value:0.2},
 			{axis:"HTML",value:0.1},
 			{axis:"JavaScript",value:0.3},
-			{axis:"Python",value:0.3},
+			{axis:"Python",value:0.5},
 			{axis:"CSS",value:0.1}
 		  ],[
 			{axis:"Matlab",value:0.6},
 			{axis:"C",value:0.7},
 			{axis:"Cpp",value:0.8},
-			{axis:"Java",value:0.6},
+			{axis:"Java",value:0.7},
 			{axis:"SQL",value:0.4},
 			{axis:"HTML",value:0.3},
 			{axis:"JavaScript",value:0.3},
 			{axis:"Python",value:0.7},
 			{axis:"CSS",value:0.2}
 		  ],[
-			{axis:"Matlab",value:0.5},
+			{axis:"Matlab",value:0.3},
 			{axis:"C",value:0.6},
 			{axis:"Cpp",value:0.6},
 			{axis:"Java",value:0.6},
