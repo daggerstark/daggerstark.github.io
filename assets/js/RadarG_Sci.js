@@ -17,13 +17,13 @@ var d1 = [
 		  ],[
 			{axis:"WirelessComm",value:0.9},
 			{axis:"MachineLearning",value:0.85},
-			{axis:"BioMedicalAI",value:0.8},
+			{axis:"BioMedicalAI",value:0.65},
 			{axis:"DeepLearning",value:0.8},
 			{axis:"CompScience",value:0.85}
 		  ],[
 			{axis:"WirelessComm",value:0.3},
 			{axis:"MachineLearning",value:0.85},
-			{axis:"BioMedicalAI",value:0.9},
+			{axis:"BioMedicalAI",value:0.85},
 			{axis:"DeepLearning",value:0.9},
 			{axis:"CompScience",value:0.8}
 		  ]
