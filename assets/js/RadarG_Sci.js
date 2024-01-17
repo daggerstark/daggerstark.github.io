@@ -4,7 +4,7 @@ var	h = w;
 var colorscale = d3.scale.category10();
 
 //Legend titles
-var LegendOptions = ['2017','2019','2022'];
+var LegendOptions = ['2018','2021','2023'];
 
 //Data
 var d1 = [
